@@ -1,0 +1,22 @@
+c:\users\waqas\documents\visual studio 2010\Projects\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\bin\Debug\File_Encrypter_Decrypyer.exe
+c:\users\waqas\documents\visual studio 2010\Projects\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\bin\Debug\File_Encrypter_Decrypyer.pdb
+c:\users\waqas\documents\visual studio 2010\Projects\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\waqas\documents\visual studio 2010\Projects\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.Properties.Resources.resources
+c:\users\waqas\documents\visual studio 2010\Projects\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.exe
+c:\users\waqas\documents\visual studio 2010\Projects\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.pdb
+c:\users\waqas\documents\visual studio 2010\Projects\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.frmEncDec.resources
+c:\users\waqas\documents\visual studio 2010\Projects\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\bin\Debug\File_Encrypter_Decrypyer.exe.config
+c:\users\waqas\documents\visual studio 2010\Projects\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+c:\users\waqas\documents\visual studio 2010\Projects\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+c:\users\waqas\documents\visual studio 2010\Projects\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\bin\Debug\CloudToolkitN6.dll
+C:\Users\Waqas\Desktop\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\bin\Debug\File_Encrypter_Decrypyer.exe.config
+C:\Users\Waqas\Desktop\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.exe
+C:\Users\Waqas\Desktop\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.pdb
+C:\Users\Waqas\Desktop\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\bin\Debug\File_Encrypter_Decrypyer.exe
+C:\Users\Waqas\Desktop\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\bin\Debug\File_Encrypter_Decrypyer.pdb
+C:\Users\Waqas\Desktop\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\bin\Debug\CloudToolkitN6.dll
+C:\Users\Waqas\Desktop\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Waqas\Desktop\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.frmEncDec.resources
+C:\Users\Waqas\Desktop\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.Properties.Resources.resources
+C:\Users\Waqas\Desktop\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Waqas\Desktop\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog

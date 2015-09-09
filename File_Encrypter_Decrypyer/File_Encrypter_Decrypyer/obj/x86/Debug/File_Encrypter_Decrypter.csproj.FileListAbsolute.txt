@@ -1,0 +1,146 @@
+C:\Users\Waqas\Desktop\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\bin\Debug\File_Encrypter_Decrypyer.exe.config
+C:\Users\Waqas\Desktop\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\bin\Debug\File_Encrypter_Decrypyer.exe
+C:\Users\Waqas\Desktop\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\bin\Debug\File_Encrypter_Decrypyer.pdb
+C:\Users\Waqas\Desktop\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\bin\Debug\CloudToolkitN6.dll
+C:\Users\Waqas\Desktop\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Waqas\Desktop\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.frmEncDec.resources
+C:\Users\Waqas\Desktop\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.Properties.Resources.resources
+C:\Users\Waqas\Desktop\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Waqas\Desktop\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Waqas\Desktop\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.exe
+C:\Users\Waqas\Desktop\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.pdb
+C:\Users\krishna\Downloads\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\bin\Debug\File_Encrypter_Decrypyer.exe.config
+C:\Users\krishna\Downloads\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.exe
+C:\Users\krishna\Downloads\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.pdb
+C:\Users\krishna\Downloads\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\bin\Debug\File_Encrypter_Decrypyer.exe
+C:\Users\krishna\Downloads\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\bin\Debug\File_Encrypter_Decrypyer.pdb
+C:\Users\krishna\Downloads\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypter.csprojResolveAssemblyReference.cache
+C:\Users\krishna\Downloads\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.frmEncDec.resources
+C:\Users\krishna\Downloads\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.Properties.Resources.resources
+C:\Users\krishna\Downloads\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypter.csproj.GenerateResource.Cache
+C:\Users\krishna\Desktop\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\bin\Debug\File_Encrypter_Decrypyer.exe.config
+C:\Users\krishna\Desktop\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.exe
+C:\Users\krishna\Desktop\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.pdb
+C:\Users\krishna\Desktop\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\bin\Debug\File_Encrypter_Decrypyer.exe
+C:\Users\krishna\Desktop\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\bin\Debug\File_Encrypter_Decrypyer.pdb
+C:\Users\krishna\Desktop\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypter.csprojResolveAssemblyReference.cache
+C:\Users\krishna\Desktop\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.Form1.resources
+C:\Users\krishna\Desktop\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.frmEncDec.resources
+C:\Users\krishna\Desktop\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.Properties.Resources.resources
+C:\Users\krishna\Desktop\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypter.csproj.GenerateResource.Cache
+C:\Users\krishna\Desktop\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.stagnograph.resources
+F:\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\bin\Debug\File_Encrypter_Decrypyer.exe.config
+F:\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.exe
+F:\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.pdb
+F:\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\bin\Debug\File_Encrypter_Decrypyer.exe
+F:\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\bin\Debug\File_Encrypter_Decrypyer.pdb
+F:\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypter.csprojResolveAssemblyReference.cache
+F:\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.Form1.resources
+F:\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.frmEncDec.resources
+F:\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.Properties.Resources.resources
+F:\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.stagnograph.resources
+F:\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypter.csproj.GenerateResource.Cache
+F:\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.FolderLock.resources
+S:\New folder\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\bin\Debug\File_Encrypter_Decrypyer.exe.config
+S:\New folder\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.exe
+S:\New folder\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.pdb
+S:\New folder\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\bin\Debug\File_Encrypter_Decrypyer.exe
+S:\New folder\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\bin\Debug\File_Encrypter_Decrypyer.pdb
+S:\New folder\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypter.csprojResolveAssemblyReference.cache
+S:\New folder\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.FolderLock.resources
+S:\New folder\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.Form1.resources
+S:\New folder\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.frmEncDec.resources
+S:\New folder\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.Properties.Resources.resources
+S:\New folder\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.stagnograph.resources
+S:\New folder\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypter.csproj.GenerateResource.Cache
+C:\Users\sony\Desktop\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\bin\Debug\File_Encrypter_Decrypyer.exe.config
+C:\Users\sony\Desktop\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.exe
+C:\Users\sony\Desktop\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.pdb
+C:\Users\sony\Desktop\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\bin\Debug\File_Encrypter_Decrypyer.exe
+C:\Users\sony\Desktop\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\bin\Debug\File_Encrypter_Decrypyer.pdb
+C:\Users\sony\Desktop\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.FolderLock.resources
+C:\Users\sony\Desktop\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.Form1.resources
+C:\Users\sony\Desktop\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.frmEncDec.resources
+C:\Users\sony\Desktop\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.Properties.Resources.resources
+C:\Users\sony\Desktop\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.stagnograph.resources
+C:\Users\sony\Desktop\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypter.csproj.GenerateResource.Cache
+C:\Users\sony\Desktop\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypter.csprojResolveAssemblyReference.cache
+C:\Users\krishna\Desktop\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\bin\Debug\File_Encrypter_Decrypyer.exe.config
+C:\Users\krishna\Desktop\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.exe
+C:\Users\krishna\Desktop\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.pdb
+C:\Users\krishna\Desktop\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\bin\Debug\File_Encrypter_Decrypyer.exe
+C:\Users\krishna\Desktop\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\bin\Debug\File_Encrypter_Decrypyer.pdb
+C:\Users\krishna\Desktop\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.FolderLock.resources
+C:\Users\krishna\Desktop\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.Form1.resources
+C:\Users\krishna\Desktop\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.frmEncDec.resources
+C:\Users\krishna\Desktop\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.Properties.Resources.resources
+C:\Users\krishna\Desktop\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.stagnograph.resources
+C:\Users\krishna\Desktop\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypter.csproj.GenerateResource.Cache
+C:\Users\krishna\Desktop\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypter.csprojResolveAssemblyReference.cache
+C:\Users\krishna\Desktop\finalised project\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\bin\Debug\File_Encrypter_Decrypyer.exe.config
+C:\Users\krishna\Desktop\finalised project\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.exe
+C:\Users\krishna\Desktop\finalised project\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.pdb
+C:\Users\krishna\Desktop\finalised project\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\bin\Debug\File_Encrypter_Decrypyer.exe
+C:\Users\krishna\Desktop\finalised project\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\bin\Debug\File_Encrypter_Decrypyer.pdb
+C:\Users\krishna\Desktop\finalised project\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypter.csprojResolveAssemblyReference.cache
+C:\Users\krishna\Desktop\finalised project\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.FolderLock.resources
+C:\Users\krishna\Desktop\finalised project\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.Form1.resources
+C:\Users\krishna\Desktop\finalised project\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.frmEncDec.resources
+C:\Users\krishna\Desktop\finalised project\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.Properties.Resources.resources
+C:\Users\krishna\Desktop\finalised project\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.stagnograph.resources
+C:\Users\krishna\Desktop\finalised project\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypter.csproj.GenerateResource.Cache
+C:\Users\krishna\Desktop\finalised project\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\bin\Debug\File_Encrypter_Decrypyer.exe.manifest
+C:\Users\krishna\Desktop\finalised project\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\bin\Debug\File_Encrypter_Decrypyer.application
+C:\Users\krishna\Desktop\finalised project\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.exe.manifest
+C:\Users\krishna\Desktop\finalised project\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.application
+C:\Users\krishna\Desktop\burn2disk\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\bin\Debug\File_Encrypter_Decrypyer.exe.config
+C:\Users\krishna\Desktop\burn2disk\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.exe
+C:\Users\krishna\Desktop\burn2disk\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.pdb
+C:\Users\krishna\Desktop\burn2disk\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\bin\Debug\File_Encrypter_Decrypyer.exe.manifest
+C:\Users\krishna\Desktop\burn2disk\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\bin\Debug\File_Encrypter_Decrypyer.application
+C:\Users\krishna\Desktop\burn2disk\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\bin\Debug\File_Encrypter_Decrypyer.exe
+C:\Users\krishna\Desktop\burn2disk\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\bin\Debug\File_Encrypter_Decrypyer.pdb
+C:\Users\krishna\Desktop\burn2disk\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypter.csprojResolveAssemblyReference.cache
+C:\Users\krishna\Desktop\burn2disk\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.FolderLock.resources
+C:\Users\krishna\Desktop\burn2disk\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.Form1.resources
+C:\Users\krishna\Desktop\burn2disk\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.frmEncDec.resources
+C:\Users\krishna\Desktop\burn2disk\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.Properties.Resources.resources
+C:\Users\krishna\Desktop\burn2disk\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.stagnograph.resources
+C:\Users\krishna\Desktop\burn2disk\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypter.csproj.GenerateResource.Cache
+C:\Users\krishna\Desktop\burn2disk\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.exe.manifest
+C:\Users\krishna\Desktop\burn2disk\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.application
+C:\Users\sony\Desktop\burn2disk\burn2disk\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\bin\Debug\File_Encrypter_Decrypyer.exe.config
+C:\Users\sony\Desktop\burn2disk\burn2disk\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.exe
+C:\Users\sony\Desktop\burn2disk\burn2disk\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.pdb
+C:\Users\sony\Desktop\burn2disk\burn2disk\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\bin\Debug\File_Encrypter_Decrypyer.exe.manifest
+C:\Users\sony\Desktop\burn2disk\burn2disk\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\bin\Debug\File_Encrypter_Decrypyer.application
+C:\Users\sony\Desktop\burn2disk\burn2disk\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\bin\Debug\File_Encrypter_Decrypyer.exe
+C:\Users\sony\Desktop\burn2disk\burn2disk\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\bin\Debug\File_Encrypter_Decrypyer.pdb
+C:\Users\sony\Desktop\burn2disk\burn2disk\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypter.csprojResolveAssemblyReference.cache
+C:\Users\sony\Desktop\burn2disk\burn2disk\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.FolderLock.resources
+C:\Users\sony\Desktop\burn2disk\burn2disk\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.Form1.resources
+C:\Users\sony\Desktop\burn2disk\burn2disk\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.frmEncDec.resources
+C:\Users\sony\Desktop\burn2disk\burn2disk\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.Properties.Resources.resources
+C:\Users\sony\Desktop\burn2disk\burn2disk\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.stagnograph.resources
+C:\Users\sony\Desktop\burn2disk\burn2disk\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypter.csproj.GenerateResource.Cache
+C:\Users\sony\Desktop\burn2disk\burn2disk\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.exe.manifest
+C:\Users\sony\Desktop\burn2disk\burn2disk\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.application
+D:\burn2disk\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\bin\Debug\File_Encrypter_Decrypyer.exe.config
+D:\burn2disk\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.exe
+D:\burn2disk\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.pdb
+D:\burn2disk\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\bin\Debug\File_Encrypter_Decrypyer.exe.manifest
+D:\burn2disk\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\bin\Debug\File_Encrypter_Decrypyer.application
+D:\burn2disk\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\bin\Debug\File_Encrypter_Decrypyer.exe
+D:\burn2disk\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\bin\Debug\File_Encrypter_Decrypyer.pdb
+D:\burn2disk\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\burn2disk\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.FolderLock.resources
+D:\burn2disk\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.Form1.resources
+D:\burn2disk\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.frmEncDec.resources
+D:\burn2disk\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.Properties.Resources.resources
+D:\burn2disk\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.stagnograph.resources
+D:\burn2disk\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\burn2disk\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\ResGen.read.1.tlog
+D:\burn2disk\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\burn2disk\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\ResGen.write.1.tlog
+D:\burn2disk\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.exe.manifest
+D:\burn2disk\File_Encrypter_Decrypyer\File_Encrypter_Decrypyer\obj\x86\Debug\File_Encrypter_Decrypyer.application
